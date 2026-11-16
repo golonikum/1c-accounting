@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Клиенты" id="d62a4f79-37cd-4442-a1eb-ba4a78b5b773" configVersion="aac77a71ec2f164da8bff07a7bcc399a00000000">
+			<Metadata name="Catalog.Клиенты.Attribute.Телефон" id="14002bb1-b31c-4fb2-b326-90e5c61c1297"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Менеджер" id="40d2f4aa-b504-4f53-bad3-1062d897d9e6"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Email" id="4fdcc553-0261-4a22-b5ef-f1cb4e45fa45"/>
+			<Metadata name="Catalog.Клиенты.Attribute.ДатаРегистрации" id="5b5c539d-88fb-4829-8888-683d5cc0856d"/>
+			<Metadata name="Catalog.Клиенты.Attribute.ТипКлиента" id="b73f7428-79af-431d-bf0d-a74b9f02a778"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Комментарий" id="b7f6d054-b54e-424e-a7e4-025b907935d1"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты.Form.ФормаСписка" id="ef6cf713-7069-421e-b421-2ed833cb0067" configVersion="45517435c078374e9b0e0dad331a8abf00000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаСписка.Form" id="ef6cf713-7069-421e-b421-2ed833cb0067.0" configVersion="4e227029de51854397d968bcffe718a600000000"/>
+		<Metadata name="Catalog.Клиенты.ObjectModule" id="d62a4f79-37cd-4442-a1eb-ba4a78b5b773.0" configVersion="f475325370f96e4ca208c1833e5aaf6200000000"/>
+		<Metadata name="Catalog.Сотрудники" id="e6000d0d-594d-4fae-b4a1-e43d34492cdd" configVersion="d95b8a75be7e73469e4c37b7d837ab1d00000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="1e0525bf-c5f2-472e-a655-a6b4a431df69"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Телефон" id="59ddb933-b0fb-4d1b-b0e8-c3885801e38e"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ДатаПриёма" id="6c5319ff-0837-44a0-918e-3494d5e43b3a"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Уволен" id="f6214cde-8534-4c2a-9e99-d71ba1e2e081"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка" id="b1b65251-3a64-424a-81b0-c0aead6f972b" configVersion="067c5adb4913f44090ecf3f15e79b29700000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="b1b65251-3a64-424a-81b0-c0aead6f972b.0" configVersion="3fb900ecd708b0459e7358b7506167bb00000000"/>
+		<Metadata name="Catalog.Услуги" id="053d6ec8-afb8-464d-be1f-cda65f83567c" configVersion="9428e8875b0a9e459b513dc15bbb208800000000">
+			<Metadata name="Catalog.Услуги.Attribute.Цена" id="3e53c619-94ae-41b0-9528-db32bc46eb1b"/>
+			<Metadata name="Catalog.Услуги.Attribute.Артикул" id="58fcc2dd-876c-47d2-b5eb-b68f58b8a57d"/>
+			<Metadata name="Catalog.Услуги.Attribute.ЕдиницаИзмерения" id="878bfae0-f698-4718-84df-cbd2685485c3"/>
+			<Metadata name="Catalog.Услуги.Attribute.Длительность" id="b1af685a-0ed1-4b0c-b32b-844be21fe503"/>
+			<Metadata name="Catalog.Услуги.Attribute.Активна" id="e24e8e5a-4595-45c3-a37c-c41d7933772f"/>
+		</Metadata>
+		<Metadata name="CommonModule.МодульПроверкаВвода" id="0eeb0379-746b-4824-a64e-6719c56e0ffe" configVersion="0f20a170a0e6634eb503efb99681b2fe00000000"/>
+		<Metadata name="CommonModule.МодульПроверкаВвода.Module" id="0eeb0379-746b-4824-a64e-6719c56e0ffe.0" configVersion="2d3144db6a66d84aa6cbdc8e027a35f100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="1eb8e435-9132-4501-b7c5-21bc0e81625a" configVersion="4bcd6c8903ce8841ac033b8ab598de5200000000"/>
+		<Metadata name="Enum.СтатусыЗаказа" id="a69947f8-43d3-4442-a592-604dd347866c" configVersion="fb36031bf36e674a869eb5dffa5dc08800000000">
+			<Metadata name="Enum.СтатусыЗаказа.EnumValue.Выполнен" id="15131d50-4283-4e79-9cd9-8d6764659234"/>
+			<Metadata name="Enum.СтатусыЗаказа.EnumValue.Отменён" id="88d49f08-2c7c-4c44-a20d-73d7ff85ae64"/>
+			<Metadata name="Enum.СтатусыЗаказа.EnumValue.ВРаботе" id="dc29e387-f7d0-4f52-8f7d-81b5441a2d3e"/>
+			<Metadata name="Enum.СтатусыЗаказа.EnumValue.Новый" id="f169618e-ad62-4195-a8ea-392690f80662"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыКлиентов" id="e73c6dfc-4db4-4e18-a9c3-f15f50a4b4a5" configVersion="1d7490eb30aded4987a0acdc86bdc51500000000">
+			<Metadata name="Enum.ТипыКлиентов.EnumValue.ФизическоеЛицо" id="8875d2ba-0861-4d8c-a63d-b0a19cfc5d3f"/>
+			<Metadata name="Enum.ТипыКлиентов.EnumValue.ЮридическоеЛицо" id="bcc6abff-3b26-4957-ae04-e0dbb10481bc"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="666c51f9-a485-4619-a99c-fe95c0b2528e" configVersion="a27d874090db63449a24f0c306a777ff00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
