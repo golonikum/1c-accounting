@@ -245,12 +245,16 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Заказы</Subsystem>
+			<Subsystem>Справочники</Subsystem>
 			<CommonModule>МодульПроверкаВвода</CommonModule>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Услуги</Catalog>
+			<Document>ЗаказКлиента</Document>
 			<Enum>ТипыКлиентов</Enum>
 			<Enum>СтатусыЗаказа</Enum>
+			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
