@@ -247,6 +247,7 @@
 			<Language>Русский</Language>
 			<Subsystem>Заказы</Subsystem>
 			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Отчеты</Subsystem>
 			<CommonModule>МодульПроверкаВвода</CommonModule>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
@@ -254,6 +255,8 @@
 			<Document>ЗаказКлиента</Document>
 			<Enum>ТипыКлиентов</Enum>
 			<Enum>СтатусыЗаказа</Enum>
+			<Report>ПродажиЗаПериод</Report>
+			<DataProcessor>ТопКлиентов</DataProcessor>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>

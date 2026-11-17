@@ -37,8 +37,11 @@
 		</Metadata>
 		<Metadata name="CommonModule.МодульПроверкаВвода" id="0eeb0379-746b-4824-a64e-6719c56e0ffe" configVersion="0f20a170a0e6634eb503efb99681b2fe00000000"/>
 		<Metadata name="CommonModule.МодульПроверкаВвода.Module" id="0eeb0379-746b-4824-a64e-6719c56e0ffe.0" configVersion="2d3144db6a66d84aa6cbdc8e027a35f100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="1eb8e435-9132-4501-b7c5-21bc0e81625a" configVersion="6e1814aeefabd347ba839f2b86dca1b000000000"/>
-		<Metadata name="Document.ЗаказКлиента" id="0bda8861-aea5-4b79-ba4c-8ea99ed9a00c" configVersion="8c7b3f093ea4564f9e99b9bb6c92dfc300000000">
+		<Metadata name="Configuration.Конфигурация" id="1eb8e435-9132-4501-b7c5-21bc0e81625a" configVersion="13bf7f7a6f023f43b0cb9e645071355800000000"/>
+		<Metadata name="DataProcessor.ТопКлиентов" id="d82039f3-1001-4b74-ade5-71153dd893ab" configVersion="e3641e64beea8c4289b4afa07542d8c700000000"/>
+		<Metadata name="DataProcessor.ТопКлиентов.Form.Форма" id="e2db1c14-59bc-47ae-a1ad-fabf1088dad8" configVersion="3bba617715c57246abe2675e23bdbaa700000000"/>
+		<Metadata name="DataProcessor.ТопКлиентов.Form.Форма.Form" id="e2db1c14-59bc-47ae-a1ad-fabf1088dad8.0" configVersion="ee8088bc9017ef478e70babab7a5374700000000"/>
+		<Metadata name="Document.ЗаказКлиента" id="0bda8861-aea5-4b79-ba4c-8ea99ed9a00c" configVersion="2763d34428521d4e9913db83ead695f400000000">
 			<Metadata name="Document.ЗаказКлиента.Attribute.Менеджер" id="261a251a-3c68-416c-bf25-341f5d2990ae"/>
 			<Metadata name="Document.ЗаказКлиента.TabularSection.Услуги.Attribute.Услуга" id="28915339-c18a-49c9-923d-a39d85e35bed"/>
 			<Metadata name="Document.ЗаказКлиента.Attribute.Клиент" id="37a01fb5-a294-4140-bb1b-fc844d50fc65"/>
@@ -64,8 +67,12 @@
 			<Metadata name="Enum.ТипыКлиентов.EnumValue.ЮридическоеЛицо" id="bcc6abff-3b26-4957-ae04-e0dbb10481bc"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="666c51f9-a485-4619-a99c-fe95c0b2528e" configVersion="a27d874090db63449a24f0c306a777ff00000000"/>
+		<Metadata name="Report.ПродажиЗаПериод" id="5365ed3d-5354-412a-a4ad-574002d55e58" configVersion="2bbb59f0d12e6d48964a1f22351bdff000000000"/>
+		<Metadata name="Report.ПродажиЗаПериод.Template.ОсновнаяСхемаКомпоновкиДанных" id="8880d470-15d6-4b04-8139-ae893c53e86c" configVersion="6167a8cc3f1ec14e85d36582de29e18200000000"/>
+		<Metadata name="Report.ПродажиЗаПериод.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8880d470-15d6-4b04-8139-ae893c53e86c.0" configVersion="79bdfbdcfff4f242b34601295a0f4c9000000000"/>
 		<Metadata name="Subsystem.Заказы" id="4348031e-9ec5-4348-afb4-a3a67f1799be" configVersion="88f9b721421eca4eabfbbc9d7d39525c00000000"/>
 		<Metadata name="Subsystem.Заказы.CommandInterface" id="4348031e-9ec5-4348-afb4-a3a67f1799be.1" configVersion="e321911bbdd1fa4184f7dcce63b4618600000000"/>
+		<Metadata name="Subsystem.Отчеты" id="a7374691-6dcd-47b6-bb5b-5ee9d43fb73a" configVersion="7856969c8d92264c94de3bc48ba1ad2e00000000"/>
 		<Metadata name="Subsystem.Справочники" id="2e9d7563-d8d4-487c-a936-6f9feab8338a" configVersion="d989d0ee60853645816bd314c4dd6c2300000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
