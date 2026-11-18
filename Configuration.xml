@@ -248,6 +248,9 @@
 			<Subsystem>Заказы</Subsystem>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Отчеты</Subsystem>
+			<Role>Администратор</Role>
+			<Role>Менеджер</Role>
+			<Role>Руководитель</Role>
 			<CommonModule>МодульПроверкаВвода</CommonModule>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>

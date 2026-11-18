@@ -37,7 +37,7 @@
 		</Metadata>
 		<Metadata name="CommonModule.МодульПроверкаВвода" id="0eeb0379-746b-4824-a64e-6719c56e0ffe" configVersion="0f20a170a0e6634eb503efb99681b2fe00000000"/>
 		<Metadata name="CommonModule.МодульПроверкаВвода.Module" id="0eeb0379-746b-4824-a64e-6719c56e0ffe.0" configVersion="2d3144db6a66d84aa6cbdc8e027a35f100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="1eb8e435-9132-4501-b7c5-21bc0e81625a" configVersion="13bf7f7a6f023f43b0cb9e645071355800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="1eb8e435-9132-4501-b7c5-21bc0e81625a" configVersion="07416012025ec34cb7ad52ad808f995400000000"/>
 		<Metadata name="DataProcessor.ТопКлиентов" id="d82039f3-1001-4b74-ade5-71153dd893ab" configVersion="e3641e64beea8c4289b4afa07542d8c700000000"/>
 		<Metadata name="DataProcessor.ТопКлиентов.Form.Форма" id="e2db1c14-59bc-47ae-a1ad-fabf1088dad8" configVersion="3bba617715c57246abe2675e23bdbaa700000000"/>
 		<Metadata name="DataProcessor.ТопКлиентов.Form.Форма.Form" id="e2db1c14-59bc-47ae-a1ad-fabf1088dad8.0" configVersion="ee8088bc9017ef478e70babab7a5374700000000"/>
@@ -70,6 +70,12 @@
 		<Metadata name="Report.ПродажиЗаПериод" id="5365ed3d-5354-412a-a4ad-574002d55e58" configVersion="2bbb59f0d12e6d48964a1f22351bdff000000000"/>
 		<Metadata name="Report.ПродажиЗаПериод.Template.ОсновнаяСхемаКомпоновкиДанных" id="8880d470-15d6-4b04-8139-ae893c53e86c" configVersion="6167a8cc3f1ec14e85d36582de29e18200000000"/>
 		<Metadata name="Report.ПродажиЗаПериод.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8880d470-15d6-4b04-8139-ae893c53e86c.0" configVersion="79bdfbdcfff4f242b34601295a0f4c9000000000"/>
+		<Metadata name="Role.Администратор" id="aaa135e1-02dd-4f96-92ec-5ac053850215" configVersion="f88c97b75a3d294986ed3f4c6dd17e3c00000000"/>
+		<Metadata name="Role.Администратор.Rights" id="aaa135e1-02dd-4f96-92ec-5ac053850215.0" configVersion="e8e6f71c14835644b20d9e027b35661d00000000"/>
+		<Metadata name="Role.Менеджер" id="da60d683-3885-4a9e-8757-0ab37854ee63" configVersion="bd4a0fec48819241a31e4e5d1237df1a00000000"/>
+		<Metadata name="Role.Менеджер.Rights" id="da60d683-3885-4a9e-8757-0ab37854ee63.0" configVersion="e99159d6ae173c4e8f2a911f38d0823f00000000"/>
+		<Metadata name="Role.Руководитель" id="f4146ef5-809f-4ee5-8714-918cd3617462" configVersion="8c9003b2c7e76142988eca44b31ce7d900000000"/>
+		<Metadata name="Role.Руководитель.Rights" id="f4146ef5-809f-4ee5-8714-918cd3617462.0" configVersion="1e529df9d06be345b08258b09034e44a00000000"/>
 		<Metadata name="Subsystem.Заказы" id="4348031e-9ec5-4348-afb4-a3a67f1799be" configVersion="88f9b721421eca4eabfbbc9d7d39525c00000000"/>
 		<Metadata name="Subsystem.Заказы.CommandInterface" id="4348031e-9ec5-4348-afb4-a3a67f1799be.1" configVersion="e321911bbdd1fa4184f7dcce63b4618600000000"/>
 		<Metadata name="Subsystem.Отчеты" id="a7374691-6dcd-47b6-bb5b-5ee9d43fb73a" configVersion="7856969c8d92264c94de3bc48ba1ad2e00000000"/>
